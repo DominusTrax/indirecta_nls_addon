@@ -1,6 +1,6 @@
 {
-  "rbxassetid://5876271647" = "TestImage",
-  "rbxassetid://6602292375" = "TestImage2",
-  "rbxassetid://12124007795" = "TestImage3",
-  "rbxassetid://12292719738" = "TestImage4"
+  "rbxassetid://5876271647": "TestImage",
+  "rbxassetid://6602292375": "TestImage2",
+  "rbxassetid://12124007795": "TestImage3",
+  "rbxassetid://12292719738": "TestImage4"
 }
